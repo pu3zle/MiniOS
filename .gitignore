@@ -1,0 +1,5 @@
+/bin
+/kernel/Release
+/kernel/x64
+/kernel/.vs
+/utils

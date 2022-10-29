@@ -1,0 +1,2 @@
+^Z:\PSNA\MINIOS\KERNEL\__INIT.ASM
+".\..\utils\nasm" -o "x64\Release\__init.obj" -f win64 "Z:\PSNA\MiniOS\kernel\__init.asm"

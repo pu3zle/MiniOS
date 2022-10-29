@@ -1,0 +1,13 @@
+﻿  Performing Custom Build Tools
+  Z:\PSNA\MiniOS\kernel\__init.asm:88: error: instruction not supported in 64-bit mode
+  Z:\PSNA\MiniOS\kernel\__init.asm:110: error: instruction not supported in 64-bit mode
+  Z:\PSNA\MiniOS\kernel\__init.asm:112: error: instruction not supported in 64-bit mode
+  Z:\PSNA\MiniOS\kernel\__init.asm:127: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  Z:\PSNA\MiniOS\kernel\__init.asm:128: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  Z:\PSNA\MiniOS\kernel\__init.asm:132: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+  Z:\PSNA\MiniOS\kernel\__init.asm:136: warning: 64-bit unsigned relocation zero-extended from 32 bits
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: Custom build for '__init.asm' exited with code 1.

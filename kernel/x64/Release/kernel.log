@@ -1,0 +1,15 @@
+﻿  Performing Custom Build Tools
+  Z:\PSNA\MiniOS\kernel\__init.asm:119: warning: symbol `ASMEntryPoint': GLOBAL directive after symbol definition is an experimental feature
+  Z:\PSNA\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Z:\PSNA\MiniOS\kernel\__init.asm:119: warning: symbol `__cli': GLOBAL directive after symbol definition is an experimental feature
+  Z:\PSNA\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Z:\PSNA\MiniOS\kernel\__init.asm:119: warning: symbol `__sti': GLOBAL directive after symbol definition is an experimental feature
+  Z:\PSNA\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Z:\PSNA\MiniOS\kernel\__init.asm:119: warning: symbol `__magic': GLOBAL directive after symbol definition is an experimental feature
+  Z:\PSNA\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Z:\PSNA\MiniOS\kernel\__init.asm:119: warning: symbol `__enableSSE': GLOBAL directive after symbol definition is an experimental feature
+  Z:\PSNA\MiniOS\kernel\__init.asm:25: ... from macro `EXPORT2C' defined here
+  Z:\PSNA\MiniOS\kernel\__init.asm:55: warning: dword data exceeds bounds
+  Z:\PSNA\MiniOS\kernel\__init.asm:77: error: symbol `GDTTable.data64' undefined
+  Z:\PSNA\MiniOS\kernel\__init.asm:84: error: symbol `GDTTable.code64' undefined
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: Custom build for '__init.asm' exited with code 1.
